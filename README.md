@@ -1,6 +1,8 @@
 About icu
 =========
 
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
+
 Home: http://site.icu-project.org/
 
 Package license: MIT
@@ -17,6 +19,7 @@ Current build status
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/icu-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/icu-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/icu-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/icu-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/icu-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/icu-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c32d1a7d1578b0700305ba7/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/icu-feedstock)
 
 Current release info
 ====================
@@ -104,3 +107,12 @@ In order to produce a uniquely identifiable distribution:
  * If the version of a package **is** being increased, please remember to return
    the [``build/number``](https://conda.io/docs/user-guide/tasks/build-packages/define-metadata.html#build-number-and-string)
    back to 0.
+
+Feedstock Maintainers
+=====================
+
+* [@ccordoba12](https://github.com/ccordoba12/)
+* [@jakirkham](https://github.com/jakirkham/)
+* [@msarahan](https://github.com/msarahan/)
+* [@ocefpaf](https://github.com/ocefpaf/)
+
